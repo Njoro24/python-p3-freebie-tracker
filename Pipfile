@@ -8,7 +8,7 @@ alembic = "1.8.1"
 importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
 ipdb = "0.13.9"
-sqlalchemy = "1.4.42"
+sqlalchemy = "*"
 
 [dev-packages]
 
